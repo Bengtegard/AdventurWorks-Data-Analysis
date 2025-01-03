@@ -2,6 +2,7 @@
 Jupyternotebook Report for AdventureWorks 2022 dataset.
 
 **Tools used for EDA:** SQL, Python, dbvisualiser
+
 **Description:** Financial analysis for Adventure Works, including revenue, profit, orders, sales performance. 
 
 **Dataset:** https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak 
