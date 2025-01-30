@@ -1,4 +1,4 @@
-# AdventurWorks-Data-Analysis
+# AdventureWorks Data analysis
 Jupyternotebook Report for AdventureWorks 2022 dataset.
 
 **Tools used for EDA:** SQL, Python, dbvisualiser
